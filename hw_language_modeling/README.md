@@ -34,4 +34,3 @@
 ## Стек
 
 Python, PyTorch, NLTK, Matplotlib, Seaborn
-
